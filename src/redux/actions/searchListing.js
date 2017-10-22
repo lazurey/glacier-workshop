@@ -1,5 +1,4 @@
 import { stringify } from 'querystring';
-import { createAction } from 'redux-actions'
 
 import { listingApi } from '../../request';
 
